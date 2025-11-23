@@ -6,7 +6,7 @@
 
   ---
 
-  <img src="https://media.tenor.com/N2ZceKy2SjoAAAAC/skeleton-waiting.gif" width="300" alt="Skeleton waiting" />
+  <img src="https://tenor.com/es-419/view/hello-waiting-skeleton-bored-gif-15676183" width="50" alt="html" />
 
   <br><br>
 
