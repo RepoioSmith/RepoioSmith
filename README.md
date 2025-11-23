@@ -6,7 +6,7 @@
 
   ---
 
-  <div class="tenor-gif-embed" data-postid="14558363" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/skeleton-waiting-eating-bored-playing-around-gif-14558363">Skeleton Waiting GIF</a>from <a href="https://tenor.com/search/skeleton-gifs">Skeleton GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.tenor.com/N2ZceKy2SjoAAAAC/skeleton-waiting.gif" width="300" alt="Skeleton waiting" />
 
   <br><br>
 
