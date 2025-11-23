@@ -1,4 +1,3 @@
-
 <div align="center">
 
   # ¡Hola! Soy Marco 👋
@@ -7,9 +6,9 @@
 
   ---
 
-  <p align="left">
-     📫 Cómo contactarme:
-  <div align="center">
+  <img src="https://media.tenor.com/N2ZceKy2SjoAAAAC/skeleton-waiting.gif" width="300" alt="Skeleton waiting" />
+
+  <br><br>
 
   <a href="https://www.linkedin.com/in/marco-le%C3%B3n-aldaco-8819b8326/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -19,13 +18,17 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
 
-</div>
-  </p>
+  ---
 
-  <div align="center">
-    <img src="https://tenor.com/view/skeleton-waiting-eating-bored-playing-around-gif-14558363" width="100%" />
+  <div align="left">
+   <h3>🌱 Actualmente estoy...</h3>
+   <ul>
+     <li>Aprendiendo: <b>React Native</b> y perfeccionando mi <b>Alemán</b>.</li>
+     <li>Trabajando en: Un proyecto de App Móvil.</li>
+     <li>Interesado en: <b>Python</b> y desarrollo Backend.</li>
+   </ul>
   </div>
-  
+
   ---
 
   ### 🛠️ Lenguajes y Herramientas
@@ -35,8 +38,10 @@
 
   ---
 
-  ### 📊
-  <img src="https://github-readme-stats.vercel.app/api?username=RepoioSmith&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RepoioSmith&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+  ### 📊 Mis Estadísticas
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=RepoioSmith&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RepoioSmith&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+  </p>
 
 </div>
