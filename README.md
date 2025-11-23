@@ -1,3 +1,4 @@
+<img src="https://media.tenor.com/M5Q66-L4S00AAAAC/waiting-on-italian-attorney.gif" width="300" alt="Esperando Abogado Italiano" />
 <div align="center">
 
   # ¡Hola! Soy Marco 👋
@@ -6,7 +7,7 @@
 
   ---
 
-  <img src="https://media.tenor.com/M5Q66-L4S00AAAAC/waiting-on-italian-attorney.gif" width="300" alt="Esperando Abogado Italiano" />
+  
   
 
   <br><br>
